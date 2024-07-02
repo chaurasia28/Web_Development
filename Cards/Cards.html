@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cards</title>
+    <style>
+        *{
+            margin:0px;
+            padding:0px;
+            box-sizing: border-box;
+        }
+        .container{
+            width:100vw;
+            height:100vh;
+            min-height: 980px;
+            background-image: -webkit-linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+            background-image: -moz-linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+            background-image: -o-linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+            background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+            display:flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .card{
+            width:360px;
+            height:570px;
+            background-color: white;
+            border-radius: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap:30px;
+            padding:20px;
+        }
+        .card img{
+            height:40%;
+            border-radius: 10px;
+        }
+        .card h2{
+            font-weight: 1.5rem;
+        }
+        .card p{
+            font-size: 1.2em;
+        }
+
+    </style>
+</head>
+<body>
+      <div class="container">
+          <div class="card">
+            <img src="image/tech.avif" alt="tech" >
+            <h2>Tech Timewarp: The Future is Now!</h2>
+            <p>AI is getting smarter, composing music and writing code like a pro.
+                Foldable phones and rollable TVs are blurring the line between smartphone and screen.
+                Self-driving cars inch closer to reality, promising safer and more efficient commutes.
+                The race for quantum computing heats up, aiming to unlock mind-blowing processing power.
+          </div>
+      </div>
+</body>
+</html>
