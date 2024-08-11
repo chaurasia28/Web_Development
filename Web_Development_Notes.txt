@@ -1,0 +1,91 @@
+Web Development!!
+---Introduction---:
+Web Development::
+Internet contain many  services and one of the services is web.Web is the sys-
+tem where many documents and resources are interconnected and they can be 
+access by the internet.Web is small entity and internet is big entity.
+Web is the subset of internet.Development means creating.Web Development is 
+the entity through which we can create many websites and web application.
+Website contain static content.eg blog,wikipedia(read-only). web application 
+is dynamic in nature.eg. linked in(web page-User interact).
+We can make website and web application either of one .It all depend upon use 
+case.
+---Web application:---
+It can many layers:
+Front-end/UserInteract(UI)--HTML,CSS,JS,React:Front end engineer
+Back-end(Brain(Logic &functionality) of Web app)--Backend engineer:nodejs
+Database layer:Data is store in database:Nosql,sql,mongodb
+---Full Stack Web Development---
+Who know all 3 layers->fswd
+---------------------------------
+M-Mongo DB
+E-Express js
+R-React
+N-node-JS
+----------------------------------
+---Some Important terms:---
+Network:=System in which various resources(printer,mobile,laptop) are interconnected.
+Resources are  can be connected wired and wireless too.
+Local Area Network:All resources are connected in small scale like home.
+Metropolitan Area Network:All resources are connected in large scale like state-state.
+Wide Area Network:All resources are connected at big scale.like country-country
+Internet:Global system/Network-of-Network.It is a global system where billions of devices are interconnected.
+WWW:World wide web-->Web is the system where all resources and documents are interconnected and can be access by internet.
+WWW is the subset of internet.
+IP Address:Unique identification of the machine.
+Browser::Browser is the tool by which we can access document,resorces,websites and web application that is present in internet.eg-Google Chrome,safari,opera,mozilla,firefox
+Browser Engine:To run Web related application,render..
+(underline brain--help to execute the web application like blink)
+Client-Server architecture::we can request to server like get(fetch),post(create),put(update),delete(remove) and after processing server will respond back.
+Client can be laptop,pc,mobile,browser,instagram app,fb app,CLI and by this we can request to server.
+Server can be DB server,file server,app server ,web server, email server etc.
+DNS Server :To convert Domain Name to IP Address 
+render means display.
+Each browser use various engines like Chrome and Opera uses Blink, Firefox uses Gecko, IE Edge uses EdgeHTML, Internet Explorer uses Trident, Apple Safari uses WebKit.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Internet-->interconnected networks/Network of network
+History:
+1960-Arpanet:Data is send from source to destination in form of packets.(Packets:Small chunks of data)
+1980-DNS:URL convert into IP(WWW)
+1990-Email/shopping/msg
+2000-FB->Mobile
+ISP->internet service provider provide us ip to us so that we can access internet.
+Packets are small small chunks of data.
+Protocol:sets of rules.
+Browser->req(Dest IP address)->DNS->ipaddress->local isp->regional isp->national service provider->router->router->server
+if router donot have match dest.ip address then it wilol route to parent router and it will route the data
+Nslookup or ifconfig  is the command to find ip address of www.google.com
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML:(MDN)ctrl+/-->comment
+HTML stand for hyper text markup language. We can define structure,give description and main work is to label.
+HTML is not a programming language but language that will help to label the page that is 
+whether it is heading,video,section,list etc.
+Basic terms:
+<!DOCTYPE html>-->document type is html5
+<html></html>-->all content is written and its root element.
+<>opening tag,</>closing tag.
+<html>---content---</html>-->HTML element
+<head></head>-->website metadata/SEO/title are defined and links of css
+<body></body>-->All labelling part is written .User can interact and display
+tags:h1,h2-heading;p-paragraph,article-article,section-section,forms-for forms,html-for html documents
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tags:-Tag is markup entity i.e we can define structure,meaning/semantics(paragraph,heading) and formatting to our content(content can be paragraph,video,img).
+Semantics:<h1>to<h6>,<p>,<a>,<ul>,<ol>,<table>,<tr>,<td>,<img>,<form>,<input>
+significance of h1 is more than h2.... and other <h6>,<p>bahve as normal text.
+<h1> to <h6> for headings.We can have multiple h1 tags but if it is benefit to you.
+<p> for paragraph
+<a href="https://WWW.google.com">Click here</a>--Hyperlink,email send,bookmark
+Structure:<html>,<head>,<header>,<main>,<body>,<aside>,<footer>,<article>,<section>,<nav>
+Formatting:<b>,<i>,<u>,<s>,<strong>,<em>,<sup>,<sub>,<pre>,<code>,<br>(self closing tag)
+
+
+
+
+
+
+
+
+
+
+
+
