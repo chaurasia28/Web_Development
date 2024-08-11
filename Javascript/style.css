@@ -1,0 +1,27 @@
+.heading2{
+    background-color: yellow;
+    color:black;
+}
+.box,div{
+    height:100px;
+    width:100px;
+    background-color: aquamarine;
+    border:1px solid black;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#box{
+    height:200px;
+    width:100px;
+    background-color: aquamarine;
+    border:1px solid black;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.content{
+    color:red;
+}
+.newClass{
+    background-color: greenyellow;
+}
